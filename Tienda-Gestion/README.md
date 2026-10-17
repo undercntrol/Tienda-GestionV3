@@ -4,7 +4,7 @@ Sistema de ventas, fiado y reportes para una cigarrería de barrio.
 Proyecto Integrador — Práctica Aplicada · TIC42695 · Ingeniería de Sistemas · Semestre 2026-2
 
 **Versión:** 0.3.0 (cierre del Sprint 3 de 6)
-**Equipo:** Fabrizio Stefano Saganome Cardenas · Laura Sofía Castellanos Manrique · Juan Nicolas Rodríguez Castro · Willintong Ignacio Castro Caro · Nicolas Benitez Velasco · Cristian Camilo Mora González
+**Equipo:** Fabrizio Stefano Saganome Cardenas  · Juan Nicolas Rodríguez Castro · Willintong Ignacio Castro Caro · Nicolas Benitez Velasco · Cristian Camilo Mora González
 **Repositorio:** https://github.com/undercntrol/Tienda-Gestion
 
 ---
