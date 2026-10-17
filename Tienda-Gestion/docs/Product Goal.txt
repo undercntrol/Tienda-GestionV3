@@ -1,0 +1,3 @@
+Lograr que la cigarrería lleve digitalmente sus ventas y cuentas por cobrar, de modo que al cierre de cada día el tendero conozca el total vendido por método de pago y el saldo exacto de cada cliente, reduciendo el tiempo de cuadre diario de 20 a menos de 5 minutos y eliminando las deudas no registradas, dentro de las 16 semanas del semestre.
+
+(Es el mismo Product Goal del README. Se unificó en el Sprint 3: antes había dos versiones distintas.)

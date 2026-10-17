@@ -1,0 +1,10 @@
+Definition of Done — Tienda Gestión (unificada en el Sprint 3; es la misma del README)
+
+Una historia de usuario está terminada cuando:
+
+1. Cumple todos sus criterios de aceptación, probados a mano en el programa corriendo.
+2. Tiene pruebas automáticas de sus reglas y "python -m unittest discover -s tests" pasa completo.
+3. El código está en una rama propia (hu-XX-descripcion), revisado por otro integrante y mezclado a main por pull request.
+4. Los errores posibles muestran un mensaje que el tendero entiende (nunca un error técnico de Python o de SQLite).
+5. La documentación del repositorio quedó actualizada (README, backlog y bitácora del sprint).
+6. El uso de IA quedó registrado en la bitácora del sprint.
